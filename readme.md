@@ -1,5 +1,6 @@
-# Pedro Augusto
+# Pedro
 
 ## Hello world.
 
-Gosto de ir na academia e estar com meus amigos, gosto de aprender.
+Gosto de aprender, aprendendo a programar.
+Hoje melhor do que ontem, amanhã melhor do que hoje.
